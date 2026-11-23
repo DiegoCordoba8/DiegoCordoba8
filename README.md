@@ -1,14 +1,11 @@
 ### Hi there 👋, I'm Diego Córdoba
 
-<!-- Si diseñas un banner en Canva (ej. 1200x300px) con tu foto, tu rol y tus redes, súbelo a tu repo y descomenta la línea de abajo -->
-<!-- ![Banner](./banner.png) -->
-
 Software Engineering student at **Universidad Politécnica de Madrid (UPM)** and **Software Architecture Junior Analyst** at **Santander Consumer Bank** in Turin, Italy 🇮🇹.
 
 Focused on bridging business and technology through **Enterprise Architecture, Cloud, DevOps, and AI transformation**—aiming toward **Technical Management and IT Strategy**.
 
 **Focus Areas:**  
-`Solution Architecture` · `System Design` · `Agile / Scrum` · `CI/CD` · `AI-Driven Workflows`
+`Software Architecture` · `Cloud Engineering` · `DevOps` · `Artificial Intelligence`
 
 **Tools & Stack:**  
 <p align="left">
